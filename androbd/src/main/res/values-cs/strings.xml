@@ -183,4 +183,18 @@
     <string name="display_color">Barva obrazovky</string>
     <string name="display_range">Rozsah zobrazení</string>
     <string name="update_period_s">Interval aktualizace [s]</string>
+    <string name="select_ble_device">Zvolte adaptér BLE</string>
+    <string name="no_paired_devices">Žádná spárovaná zařízení. Nejprve spárujte zařízení v nastavení Bluetooth.</string>
+    <string name="no_ble_devices_found">V okolí nebylo nalezeno žádné zařízení.</string>
+    <string name="no_usb_devices_found">Nebylo nalezeno žádné zařízení USB.</string>
+    <string name="language_selection_description">Vyberte jazyk aplikace</string>
+    <string name="language_system_default">Podle nastavení systému</string>
+    <string name="restart_required">Aby se změna jazyka projevila, restartujte aplikaci</string>
+    <string name="no_obd_files_found">Nebyly nalezeny žádné soubory OBD</string>
+    <string name="open_log_dir">Otevřít složku s protokoly</string>
+    <string name="open_log_dir_description">Otevřít složku s protokoly ve správci souborů</string>
+    <string name="log_dir_not_found">Složka s protokoly nebyla nalezena – nejprve zapněte logování a restartujte aplikaci</string>
+    <string name="log_dir_no_app">Správce souborů nebyl nalezen – cesta byla zkopírována do schránky</string>
+    <string name="theme_mode">Motiv</string>
+    <string name="theme_mode_description">Řídit se motivem systému nebo vždy používat světlý či tmavý motiv</string>
 </resources>
